@@ -24,7 +24,7 @@
 # certificados da cacert.org, que podem exibir telas vermelhas em alguns
 # navegadores desatualizados.
 #
-site.url = "http://alguem.tem.blog.br"
+site.url = "http://iuri.tem.blog.br"
 
 ## site.author -- Nome dx autorx do site.
 #
@@ -33,7 +33,7 @@ site.url = "http://alguem.tem.blog.br"
 # Caso alguma coisa seja colocada entre as aspas, então todo lugar onde
 # o site gera nome de autor vai ficar com este nome aqui.
 #
-site.author = ""
+site.author = "Iuri Guilherme"
 
 #### Configurações do blog ####
 #
@@ -90,10 +90,10 @@ blog.posts_per_page = 1
 
 
 ## blog_name -- Nome do blog.
-blog.name = "Alguém Tem Blog .BR"
+blog.name = "Igreja Universal do Reino do Iuri"
 
 ## blog_description -- Descrição do blog. Aparece no feed RSS.
-blog.description = "Não tem blog? Aqui, \"alguém\" tem blog!"
+blog.description = "Repositório de iuri.blog.br"
 
 ## Disqus
 #
@@ -105,7 +105,7 @@ blog.description = "Não tem blog? Aqui, \"alguém\" tem blog!"
 # linha blog.disqus.name
 #
 blog.disqus.enabled = True
-blog.disqus.name = "alguemtemblogbr"
+blog.disqus.name = "iuritemblogbr"
 
 ## blog_googleanaltics_id -- ID do Google Analytics
 #blog.googleanlytics_id = "UA-XXXXX-X"
